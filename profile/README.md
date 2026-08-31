@@ -18,3 +18,4 @@ through these research groups:
 - [ECGxAI](https://github.com/UMCUtrecht-ECGxAI) - Research group AI for cardiology
 - [MMB-UMCU](https://github.com/MMB-UMCU) - Bioinformatics group of the medical microbiology department, UMC Utrecht
 - [UBEC](https://github.com/UBEC) - Utrecht Bioinformatics Expertise Core, UMC Utrecht
+- [UPOD](https://github.com/UPOD-datascience) - Utrecht Patient Oriented Database, UMC Utrecht
